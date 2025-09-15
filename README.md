@@ -1,6 +1,6 @@
 # nl-in-middle
 
-This repository adapts code from *Lost in Translation: A Study of Bugs Introduced by Large Language Models while Translating Code*[url](https://github.com/Intelligent-CAT-Lab/PLTranslationEmpirical?tab=readme-ov-file) for the studied open-source models and datasets.
+This repository adapts code from *Lost in Translation: A Study of Bugs Introduced by Large Language Models while Translating Code* [url](https://github.com/Intelligent-CAT-Lab/PLTranslationEmpirical?tab=readme-ov-file) for the studied open-source models and datasets.
 
 ### Install
 Create a virtual environment by running the following commands. We downloaded `conda 23.11.0` as per recommendation from the [Lost in Translation repository](https://github.com/Intelligent-CAT-Lab/PLTranslationEmpirical?tab=readme-ov-file).
@@ -16,7 +16,7 @@ Install the software dependencies by running
 pip3 install -r requirements.txt
 ```
 
-For compiling and testing the generated translations, we used the same configuration as Lost in Translation (specifically: Python 3.10, g++ 11, GCC Clang 14.0, Java 11, Go 1.20, and .Net 7.0.14 for Python, C++, C, Java, Go, and C# respectively). Please follow the instructions in that repo to set up the associated Python, g++, GCC Clang, Java, Go, and .Net environments [ur](https://github.com/Intelligent-CAT-Lab/PLTranslationEmpirical?tab=readme-ov-file).
+For compiling and testing the generated translations, we used the same configuration as Lost in Translation (specifically: Python 3.10, g++ 11, GCC Clang 14.0, Java 11, Go 1.20, and .Net 7.0.14 for Python, C++, C, Java, Go, and C# respectively). Please follow the instructions in that repo to set up the associated Python, g++, GCC Clang, Java, Go, and .Net environments [url](https://github.com/Intelligent-CAT-Lab/PLTranslationEmpirical?tab=readme-ov-file).
 
 Download the dataset from *Lost in Translation: A Study of Bugs Introduced by Large Language Models while Translating Code* at [Zenodo](https://zenodo.org/doi/10.5281/zenodo.8190051). 
 
