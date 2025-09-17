@@ -7,8 +7,7 @@ This repository adapts code from *Lost in Translation: A Study of Bugs Introduce
 [![Scripts](https://img.shields.io/badge/run-scripts-blue)](README.md#scripts)
 [![Data](https://zenodo.org/badge/DOI/10.5281/zenodo.8190051.svg)](https://zenodo.org/doi/10.5281/zenodo.8190051)
 
-Artifact repository for the paper [_NL in the Middle: Code Translation with LLMs and Intermediate Representations_](https://arxiv.org/abs/2507.08627), accepted at _CASCON 2025_, Toronto, Canada.
-Authors are Chi-en Amy Tai, Pengyu Nie, Lukasz Golab, and Alexander Wong.
+Artifact repository for the paper _NL in the Middle: Code Translation with LLMs and Intermediate Representations_, accepted at _CASCON 2025_, Toronto, Canada.
 
 
 ### Install
@@ -83,5 +82,5 @@ python3 src/test/compile_avatar_feedback.py --source_lang Python --target_lang J
 ```
 
 ### Contact
-We look forward to hearing your feedback. Please contact [Amy Tai](mailto:amy.tai@uwaterloo.ca) for any questions or comments.
+We look forward to hearing your feedback. Please submit a GitHub issue for any questions or comments.
 
